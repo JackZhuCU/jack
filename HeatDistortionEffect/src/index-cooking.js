@@ -1,4 +1,4 @@
-HFIEAFHIEHFIEAJFIEFJEAJFIEJFEI
+console.log("✅ index-cooking.js has been loaded as a module");
 
 import {createCanvas} from './utils/canvas';
 import Haze from './haze';
