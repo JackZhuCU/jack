@@ -1,6 +1,6 @@
-import { createCanvas } from 'https://cdn.jsdelivr.net/gh/JackZhuCU/HeatDistortionEffect@master/src/utils/canvas.js';
-import Haze             from 'https://cdn.jsdelivr.net/gh/JackZhuCU/HeatDistortionEffect@master/src/haze.js';
-import shader          from 'https://cdn.jsdelivr.net/gh/JackZhuCU/HeatDistortionEffect@master/src/shaders/haze-cooking.frag';
+import {createCanvas} from './utils/canvas';
+import Haze from './haze';
+import shader from './shaders/haze-cooking.frag';
 
 let canvas=document.querySelector('.Background-canvas');
 
