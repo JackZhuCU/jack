@@ -1,4 +1,6 @@
-import {createCanvas} from './utils/canvas.js';
+HFIEAFHIEHFIEAJFIEFJEAJFIEJFEI
+
+import {createCanvas} from './utils/canvas';
 import Haze from './haze';
 import shader from './shaders/haze-cooking.frag';
 
